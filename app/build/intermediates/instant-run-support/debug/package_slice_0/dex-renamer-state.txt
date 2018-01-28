@@ -1,0 +1,4 @@
+#Sun Jan 28 12:55:25 CST 2018
+base.0=D\:\\workspace\\GitHub\\BLE-Heart-rate-variability\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
